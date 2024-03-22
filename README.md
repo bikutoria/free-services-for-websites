@@ -33,7 +33,7 @@ Useful, free services to help get a new website up and running.
 
 ## Hosting
 
-* [Heroku](https://www.heroku.com/): Platform-as-a-service to host your site
+* [Vercel](https://vercel.com/): Platform-as-a-service for front-end development and serverless functions
 * [AWS Free Tier](http://aws.amazon.com/free/): Free usage of AWS services, within limits, for a year
 * [Rackspace Developer Tier](https://developer.rackspace.com/): Get $50/month for 12 months with $600 free credit for Rackspace cloud services
 
